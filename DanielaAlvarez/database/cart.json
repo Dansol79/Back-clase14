@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2,
+    "timeStamp": "2/6/2022",
+    "products": [
+      {
+        "title": "Las Mil y Una Noches",
+        "precio": "900",
+        "img": "Noches.jpg",
+        "descripcion": "novela",
+        "code": "375",
+        "stock": "33"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timeStamp": "2/6/2022",
+    "products": [
+      {
+        "title": "El Señor de los Anillos",
+        "precio": "609",
+        "img": "Anillos.jpg",
+        "descripcion": "saga",
+        "code": "234",
+        "stock": "1"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "timeStamp": "2/6/2022",
+    "products": [
+      {
+        "title": "Mi Planta de Naranja Lima",
+        "precio": "300",
+        "img": "Lima.jpg",
+        "descripcion": "Novela",
+        "code": "236",
+        "stock": "9"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "timeStamp": "2/6/2022",
+    "products": [
+      {
+        "title": "El Peregrino",
+        "precio": "342",
+        "img": "Cohelo.jpg",
+        "descripcion": "Novela",
+        "code": "987",
+        "stock": "989"
+      }
+    ]
+  }
+]
