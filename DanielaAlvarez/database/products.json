@@ -1,1 +1,22 @@
-[{"timestamp":"2/6/2022","id":1},{"title":"Harry Potter","precio":"600","img":"Potter.jpg","descripcion":"saga","code":"374","stock":"3","timestamp":"2/6/2022","id":3},{"title":"El Peregrino","precio":"342","img":"Cohelo.jpg","descripcion":"Novela","code":"987","stock":"75"}]
+[
+  {
+    "title": "Las Mil y Una Noches",
+    "price": "234",
+    "img": "Noches.jpg",
+    "description": "Novela",
+    "code": "935",
+    "stock": "23",
+    "timestamp": "5/6/2022",
+    "id": 3
+  },
+  {
+    "title": "Harry Potter",
+    "price": "1200",
+    "code": "123",
+    "stock": "2",
+    "description": "saga",
+    "img": "latest[1]",
+    "timestamp": "7/6/2022",
+    "id": 2
+  }
+]

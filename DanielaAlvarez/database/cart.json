@@ -19,9 +19,9 @@
     "products": [
       {
         "title": "El Señor de los Anillos",
-        "precio": "609",
+        "price": "609",
         "img": "Anillos.jpg",
-        "descripcion": "saga",
+        "description": "saga",
         "code": "234",
         "stock": "1"
       }
